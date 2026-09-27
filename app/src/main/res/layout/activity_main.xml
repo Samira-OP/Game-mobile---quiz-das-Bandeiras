@@ -15,9 +15,7 @@
         android:layout_height="wrap_content"
         tools:context=".MainActivity">
 
-        <!-- ===================================================== -->
-        <!-- PRIMEIRA LINHA -->
-        <!-- ===================================================== -->
+    
 
         <LinearLayout
             android:id="@+id/linearLayout"
@@ -40,9 +38,6 @@
         </LinearLayout>
 
 
-        <!-- ===================================================== -->
-        <!-- FOTO -->
-        <!-- ===================================================== -->
 
         <ImageView
             android:id="@+id/imageView8"
@@ -55,9 +50,9 @@
             app:srcCompat="@drawable/unicid" />
 
 
-        <!-- ===================================================== -->
+        
         <!-- NOME, INTEGRANTES E LOGO -->
-        <!-- ===================================================== -->
+     
 
         <LinearLayout
             android:id="@+id/linearLayout3"
